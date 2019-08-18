@@ -1,4 +1,4 @@
-**Available Intructions**  
+## Available Intructions
 
 **name** : def-class  
 
@@ -36,9 +36,9 @@ arglist : instance, slot-name
 
 gets value associated to slot-name from instance of one of it's superclasses.
 
-name : getvx
+**name** : getvx
 
-arglist : instance, slot-name
+**arglist** : instance, slot-name
 
 slot-name is a list
 
@@ -46,6 +46,5 @@ return value from a class by following a chain of slot-names
 
 
 
-**Nota Bene**
-  
+### Nota Bene
 Se stai guardando questo progetto con l'intento di copiare evita perchè sicuro ti beccano.
