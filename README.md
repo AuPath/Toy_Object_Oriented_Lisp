@@ -16,8 +16,6 @@ Can also define a method.
 
 Return name of the class defined.
 
-
-
 **name** : new
 
 **arglist** : class-name, slot-value
@@ -29,9 +27,7 @@ slot-value is a &rest arg, can redefine attributes/methods from superclasses.
 return created instance in form:
 
 (:type 'oolinst :class-name class-name :fields (list of alists(slot value)
-
-
-
+  
 **name** : getv
 
 arglist : instance, slot-name
