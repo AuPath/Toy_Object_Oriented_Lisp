@@ -46,5 +46,6 @@ return value from a class by following a chain of slot-names
 
 
 
-### Nota Bene
-Se stai guardando questo progetto con l'intento di copiare evita perchè sicuro ti beccano.
+### PS
+Se stai guardando questo progetto con l'intento di copiare evita perchè sicuro ti beccano.  
+Instance specific methods are not implemented.
