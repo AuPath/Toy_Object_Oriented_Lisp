@@ -1,4 +1,4 @@
-**Available Intructions**
+**Available Intructions**  
 
 **name** : def-class
 
