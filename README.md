@@ -1,6 +1,6 @@
 **Available Intructions**  
 
-**name** : def-class
+**name** : def-class  
 
 **arglist** : class-name, parents, slot-value 
 
@@ -15,6 +15,8 @@ If not all slot-names have a corresponding slot-value error.
 Can also define a method.
 
 Return name of the class defined.
+
+  
 
 **name** : new
 
@@ -45,4 +47,5 @@ return value from a class by following a chain of slot-names
 
 
 **Nota Bene**
+  
 Se stai guardando questo progetto con l'intento di copiare evita perchè sicuro ti beccano.
