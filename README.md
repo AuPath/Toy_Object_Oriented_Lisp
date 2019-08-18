@@ -1,7 +1,9 @@
 Grassi Marco 829664
 
 name : def-class
+
 arglist : class-name, parents, slot-value 
+
 Adds a class to the global hash table *classes-specs*
 class-name must be a symbol
 parents must be a list, can be empty
